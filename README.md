@@ -58,7 +58,7 @@ Welcome to the repository for my personal website. This project showcases my ski
 
 ## Author
 
-Your Name
+Croitoru Robert
 
 ## License
 
