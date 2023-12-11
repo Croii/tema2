@@ -15,7 +15,7 @@
     font-family: 'Roboto Mono', monospace;
 }
 
-/* styles for header and nav */
+/* Styles for header and nav */
 header,
 nav {
     text-align: center;
@@ -191,9 +191,6 @@ ol {
 li {
     margin-bottom: 10px;
 }
-
-
-
 
 a:hover {
     text-decoration: under ne;
